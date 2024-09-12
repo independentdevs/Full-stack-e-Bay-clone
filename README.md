@@ -2,7 +2,11 @@
 
 This is an e-commerce platform inspired by [eBay](https://www.ebay.com/), built with modern web technologies such as Next.js, Stripe, Tailwind CSS, Prisma, Supabase, and Toastify. The project is currently under development, and features such as product listings, user authentication, and payment integration are still being implemented.
 
+<<<<<<< HEAD
 ![eBay Clone Screenshot](./assets1/ebay.jpeg)
+=======
+![eBay Clone Screenshot](./assets1/Ebay Clone.jpeg)
+>>>>>>> 004189d4aeb56201a8d47796250bbb9ba137a3cc
  
 
 ## Design and Features
