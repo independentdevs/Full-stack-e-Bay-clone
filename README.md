@@ -4,11 +4,7 @@ This is an e-commerce platform inspired by [eBay](https://www.ebay.com/), built 
 
 <<<<<<< HEAD
 ![eBay Clone Screenshot](./assets1/ebay.jpeg)
-=======
-![eBay Clone Screenshot](./assets1/Ebay Clone.jpeg)
->>>>>>> 004189d4aeb56201a8d47796250bbb9ba137a3cc
  
-
 ## Design and Features
 
 This platform aims to mimic the core functionalities of eBay, including:
