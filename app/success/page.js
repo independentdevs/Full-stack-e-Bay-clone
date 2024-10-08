@@ -8,6 +8,7 @@ export default function Success() {
   return (
     <>
         <MainLayout>
+            {/* Container for the success message. */}
             <div id="SuccessPage" className="mt-12 max-w-[1200px] mx-auto px-2 min-h-[50vh]">
                 <div className="bg-white w-full p-6 min-h-[150px] flex items-center justify-center">
                     <div>
